@@ -162,7 +162,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000015931,25267,02/27/20,Issued,Sent via Email
 8000015930,25688,02/27/20,Issued,Sent via Email
 8000015929,25019,02/27/20,Issued,Sent via Email
-8000015928,25019,02/27/20,Issued,Sent via Email
 8000015927,25639,02/27/20,Issued,Sent via Email
 8000015926,14120,02/27/20,Issued,Sent via Email
 8000015925,24604,02/27/20,Issued,Sent via Email
@@ -257,8 +256,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000015836,23709,02/26/20,Issued,Sent via Email
 8000015835,15319,02/26/20,Issued,Sent via cxml
 8000015834,24239,02/26/20,Issued,Sent via cxml
-8000015833,24239,02/26/20,Issued,Sent via Email
-8000015832,24239,02/26/20,Issued,Sent via cxml
 8000015831,23330,02/26/20,Issued,Sent via Email
 8000015830,8207,02/26/20,Issued,Sent via Email
 8000015829,22124,02/26/20,Issued,Sent via Email
@@ -344,7 +341,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000015749,24371,02/26/20,Issued,Sent via Email
 8000015748,16215,02/26/20,Issued,Sent via Email
 8000015747,24433,02/26/20,Issued,Transmission Failure
-8000015746,24433,02/26/20,Issued,Sent via cxml
 8000015745,25164,02/26/20,Issued,Sent via Email
 8000015744,24764,02/26/20,Issued,Sent via Email
 8000015743,25055,02/26/20,Issued,Sent via cxml
@@ -355,7 +351,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000015738,23643,02/26/20,Issued,Sent via Email
 8000015737,24851,02/26/20,Issued,Sent via Email
 8000015736,23920,02/26/20,Issued,Sent via cxml
-8000015735,23920,02/26/20,Issued,Sent via Email
 8000015734,24523,02/26/20,Issued,Sent via Email
 8000015733,25356,02/26/20,Issued,Sent via Email
 8000015732,24132,02/26/20,Issued,Sent via Email
@@ -424,7 +419,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000015669,25389,02/26/20,Issued,Sent via Email
 8200015668,23567,02/26/20,Issued,Sent via Email
 8000015667,25361,02/26/20,Issued,Sent via cxml
-8000015666,25361,02/26/20,Issued,Sent via Email
 8000015665,25378,02/26/20,Issued,Sent via Email
 8000015664,17797,02/26/20,Issued,Sent via Email
 8300015663,20698,02/26/20,Issued,Sent via Email
@@ -508,7 +502,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000015585,24394,02/25/20,Issued,Sent via Email
 8000015584,23074,02/25/20,Issued,Sent via Email
 8000015583,21191,02/25/20,Issued,Sent via cxml
-8000015582,21191,02/25/20,Issued,Sent via Email
 8000015581,23067,02/25/20,Issued,Sent via Email
 8000015580,23687,02/25/20,Issued,Sent via Email
 8000015579,24134,02/25/20,Issued,Sent via Email
@@ -706,7 +699,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000015387,23478,02/24/20,Cancelled,Sent via Email
 8000015386,23961,02/24/20,Issued,Sent via Email
 8000015385,23887,02/24/20,Issued,Sent via Email
-8000015384,23887,02/24/20,Issued,Sent via Email
 8000015383,24216,02/24/20,Issued,Sent via Email
 8000015382,24613,02/24/20,Issued,Sent via Email
 8000015381,24588,02/24/20,Issued,Sent via Email
@@ -737,7 +729,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000015356,23847,02/24/20,Issued,Sent via Email
 8000015355,24477,02/24/20,Issued,Sent via Email
 8000015354,23771,02/24/20,Issued,Transmission Failure
-8000015353,23771,02/24/20,Issued,Sent via cxml
 8000015352,22247,02/24/20,Issued,Sent via Email
 8000015351,23742,02/24/20,Issued,Sent via Email
 8000015350,10265,02/24/20,Issued,Sent via Email
@@ -751,7 +742,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000015342,22133,02/24/20,Issued,Sent via Email
 8000015341,22994,02/24/20,Issued,Sent via Email
 8000015340,23959,02/24/20,Issued,Sent via Email
-8000015339,23959,02/24/20,Issued,Sent via Email
 8000015338,21285,02/24/20,Issued,Sent via Email
 8000015337,23769,02/24/20,Issued,Sent via Email
 8000015336,23835,02/24/20,Issued,Sent via Email
@@ -918,7 +908,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000015175,21872,02/21/20,Issued,Sent via Email
 8000015174,23965,02/21/20,Issued,Sent via cxml
 8000015173,16632,02/21/20,Issued,Sent via cxml
-8000015172,16632,02/21/20,Issued,Sent via Email
 8000015171,23537,02/21/20,Issued,Sent via Email
 8000015170,19644,02/21/20,Issued,Sent via cxml
 8000015169,24370,02/21/20,Issued,Sent via cxml
@@ -977,8 +966,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000015116,23916,02/21/20,Issued,Sent via Email
 8000015115,23806,02/21/20,Issued,Sent via cxml
 8000015114,7838,02/21/20,Issued,Sent via Email
-8000015113,7838,02/21/20,Issued,Sent via Email
-8000015112,7838,02/21/20,Issued,Sent via Email
 8000015111,21018,02/21/20,Issued,Sent via Email
 8200015110,20105,02/21/20,Issued,Sent via Email
 8000015109,23224,02/21/20,Issued,Sent via Email
@@ -1481,7 +1468,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000014612,23695,02/19/20,Issued,Sent via Email
 8300014611,23513,02/19/20,Issued,Sent via Email
 8000014610,23703,02/19/20,Issued,Sent via Email
-8000014609,23703,02/19/20,Issued,Sent via Email
 8000014608,15949,02/19/20,Issued,Transmission Failure
 8000014607,4654,02/19/20,Issued,Sent via Email
 8000014606,18754,02/19/20,Issued,Sent via Email
@@ -1567,9 +1553,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000014526,23813,02/18/20,Issued,Sent via Email
 8000014525,23770,02/18/20,Issued,Sent via cxml
 8000014524,23758,02/18/20,Issued,Transmission Failure
-8000014523,23758,02/18/20,Issued,Sent via Email
-8000014522,23758,02/18/20,Issued,Sent via Email
-8000014521,23758,02/18/20,Issued,Sent via Email
 8000014520,22919,02/18/20,Issued,Sent via Email
 8000014519,22503,02/18/20,Issued,Sent via Email
 8000014518,21892,02/18/20,Issued,Sent via Email
@@ -1626,7 +1609,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000014467,16595,02/18/20,Issued,Sent via Email
 8000014466,21610,02/18/20,Issued,Sent via Email
 8000014465,23597,02/18/20,Issued,Sent via Email
-8000014464,23597,02/18/20,Issued,Sent via cxml
 8000014463,21785,02/18/20,Issued,Sent via Email
 8000014462,20471,02/18/20,Issued,Sent via Email
 8000014461,23627,02/18/20,Issued,Sent via Email
@@ -1670,10 +1652,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000014423,22802,02/18/20,Issued,Sent via cxml
 8000014422,22915,02/18/20,Issued,Sent via Email
 8000014421,23460,02/18/20,Issued,Transmission Failure
-8000014420,23460,02/18/20,Issued,Sent via Email
-8000014419,23460,02/18/20,Cancelled,Sent via Email
-8000014418,23460,02/18/20,Issued,Sent via Email
-8000014417,23460,02/18/20,Issued,Sent via Email
 8000014416,18514,02/18/20,Issued,Sent via Email
 8000014415,7131,02/18/20,Issued,Sent via cxml
 8000014414,21286,02/18/20,Issued,Sent via Email
@@ -1723,7 +1701,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000014370,22103,02/18/20,Issued,Sent via Email
 8000014369,23600,02/18/20,Issued,Sent via Email
 8000014368,23601,02/18/20,Issued,Sent via Email
-8000014367,23601,02/18/20,Issued,Sent via Email
 8000014366,21212,02/18/20,Issued,Sent via Email
 8000014365,20733,02/18/20,Issued,Sent via Email
 8000014364,21393,02/18/20,Issued,Sent via Email
@@ -2112,7 +2089,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000013981,21442,02/14/20,Issued,Sent via Email
 8000013980,22039,02/14/20,Issued,Sent via Email
 8000013979,20095,02/14/20,Issued,Sent via cxml
-8000013978,20095,02/14/20,Issued,Sent via Email
 8000013977,22809,02/14/20,Issued,Sent via cxml
 8000013976,21747,02/14/20,Issued,Sent via Email
 8000013975,22918,02/14/20,Issued,Sent via Email
@@ -2276,8 +2252,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000013817,5561,02/13/20,Issued,Sent via Email
 8000013816,22793,02/13/20,Issued,Sent via Email
 8000013815,22540,02/13/20,Issued,Sent via Email
-8000013814,22404,02/13/20,Cancelled,Sent via Email
-8000013813,22404,02/13/20,Cancelled,Sent via Email
 8000013812,22545,02/13/20,Issued,Sent via cxml
 8000013811,21846,02/13/20,Issued,Sent via Email
 8000013810,21801,02/13/20,Issued,Sent via Email
@@ -2442,7 +2416,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000013651,22085,02/12/20,Issued,Sent via Email
 8000013650,17541,02/12/20,Issued,Sent via cxml
 8000013649,19821,02/12/20,Issued,Sent via cxml
-8000013648,17541,02/12/20,Issued,Sent via Email
 8000013647,21168,02/12/20,Issued,Sent via cxml
 8000013646,22598,02/12/20,Issued,Sent via Email
 8000013645,21877,02/12/20,Cancelled,Sent via Email
@@ -2667,7 +2640,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000013426,20084,02/11/20,Issued,Sent via Email
 8000013425,20776,02/11/20,Issued,Sent via Email
 8000013424,19160,02/11/20,Issued,Transmission Failure
-8000013423,19160,02/11/20,Issued,Sent via cxml
 8000013422,7355,02/11/20,Issued,Sent via Email
 8000013421,21527,02/11/20,Issued,Sent via Email
 8000013420,21984,02/11/20,Issued,Sent via Email
@@ -2821,7 +2793,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000013272,18780,02/11/20,Issued,Sent via Email
 8000013271,19915,02/11/20,Issued,Sent via Email
 8000013270,20950,02/11/20,Issued,Sent via Email
-8000013269,20950,02/11/20,Issued,Sent via Email
 8000013268,19873,02/11/20,Issued,Sent via Email
 8000013267,21887,02/11/20,Issued,Sent via cxml
 8000013266,21321,02/11/20,Issued,Sent via Email
@@ -2959,8 +2930,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8300013134,19401,02/10/20,Issued,Sent via Email
 8000013133,21807,02/10/20,Issued,Sent via Email
 8000013132,21824,02/10/20,Issued,Sent via cxml
-8000013131,21824,02/10/20,Issued,Sent via Email
-8000013130,21824,02/10/20,Issued,Sent via Email
 8000013129,21965,02/10/20,Issued,Sent via Email
 8000013128,21147,02/10/20,Issued,Sent via Email
 8000013127,18638,02/10/20,Issued,Sent via Email
@@ -3254,7 +3223,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000012839,20470,02/07/20,Issued,Sent via Email
 8000012838,21413,02/07/20,Issued,Sent via cxml
 8000012837,21390,02/07/20,Issued,Sent via Email
-8000012836,21390,02/07/20,Issued,Sent via Email
 8000012835,21384,02/07/20,Issued,Sent via Email
 8000012834,21356,02/07/20,Issued,Sent via Email
 8000012833,21368,02/07/20,Issued,Sent via Email
@@ -3588,7 +3556,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000012505,17981,02/05/20,Issued,Sent via Email
 8000012504,16735,02/05/20,Issued,Sent via Email
 8000012503,20876,02/05/20,Cancelled,Sent via Email
-8000012502,20876,02/05/20,Cancelled,Sent via Email
 8000012501,18370,02/05/20,Issued,Sent via Email
 8300012500,18302,02/05/20,Issued,Sent via Email
 8000012499,20823,02/05/20,Issued,Sent via Email
@@ -3803,7 +3770,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000012290,20018,02/04/20,Issued,Sent via Email
 8000012289,20276,02/04/20,Issued,Sent via Email
 8000012288,20121,02/04/20,Issued,Sent via Email
-8000012287,20276,02/04/20,Issued,Sent via cxml
 8000012286,19258,02/04/20,Issued,Sent via Email
 8000012285,20294,02/04/20,Issued,Sent via cxml
 8000012284,20210,02/04/20,Issued,Sent via cxml
@@ -3817,8 +3783,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8300012276,19296,02/04/20,Issued,Sent via Email
 8300012275,20581,02/04/20,Issued,Sent via Email
 8000012274,18248,02/04/20,Issued,Sent via cxml
-8000012273,18248,02/04/20,Issued,Sent via Email
-8000012272,18248,02/04/20,Issued,Sent via Email
 8300012271,19301,02/04/20,Issued,Sent via Email
 8300012270,19380,02/04/20,Issued,Sent via Email
 8000012269,20251,02/04/20,Issued,Sent via cxml
@@ -3903,7 +3867,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000012190,18005,02/04/20,Issued,Sent via Email
 8000012189,18724,02/04/20,Issued,Sent via Email
 8000012188,8653,02/04/20,Issued,Sent via Email
-8000012187,8653,02/04/20,Issued,Sent via Email
 8000012186,20060,02/04/20,Issued,Sent via cxml
 8000012185,17678,02/04/20,Issued,Sent via Email
 8000012184,19950,02/04/20,Issued,Sent via Email
@@ -3975,7 +3938,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000012118,19150,02/03/20,Issued,Sent via Email
 8000012117,15349,02/03/20,Issued,Not Sent
 8000012116,20334,02/03/20,Issued,Sent via Email
-8000012115,20334,02/03/20,Issued,Sent via cxml
 8000012114,17886,02/03/20,Issued,Sent via Email
 8000012113,19973,02/03/20,Issued,Sent via Email
 8000012112,18387,02/03/20,Issued,Sent via Email
@@ -3988,7 +3950,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000012105,19396,02/03/20,Issued,Sent via Email
 8000012104,17642,02/03/20,Issued,Sent via Email
 8000012103,20423,02/03/20,Issued,Sent via Email
-8000012102,20423,02/03/20,Issued,Sent via Email
 8000012101,18377,02/03/20,Issued,Sent via Email
 8000012100,14610,02/03/20,Issued,Sent via Email
 8000012099,14588,02/03/20,Issued,Sent via Email
@@ -4020,8 +3981,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000012073,12217,02/03/20,Issued,Sent via Email
 8000012072,19529,02/03/20,Issued,Sent via Email
 8000012071,13342,02/03/20,Issued,Transmission Failure
-8000012070,19590,02/03/20,Cancelled,Sent via Email
-8000012069,19590,02/03/20,Cancelled,Sent via Email
 8000012068,20479,02/03/20,Issued,Sent via Email
 8000012067,20456,02/03/20,Issued,Sent via Email
 8000012066,19699,02/03/20,Issued,Sent via Email
@@ -4105,7 +4064,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000011988,18934,02/03/20,Issued,Sent via Email
 8000011987,20192,02/03/20,Issued,Sent via Email
 8000011986,20090,02/03/20,Cancelled,Sent via Email
-8000011985,20090,02/03/20,Issued,Sent via Email
 8000011984,20186,02/03/20,Issued,Sent via Email
 8000011983,20185,02/03/20,Issued,Sent via Email
 8000011982,20187,02/03/20,Issued,Sent via Email
@@ -4321,7 +4279,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000011772,18661,01/31/20,Issued,Sent via Email
 8000011771,18241,01/31/20,Issued,Sent via Email
 8000011770,17378,01/31/20,Issued,Sent via Email
-8000011769,18597,01/31/20,Cancelled,Sent via Email
 8000011768,17215,01/31/20,Issued,Sent via cxml
 8000011767,16673,01/31/20,Issued,Sent via Email
 8000011766,19478,01/31/20,Issued,Sent via Email
@@ -4586,7 +4543,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000011507,17250,01/30/20,Issued,Sent via Email
 8000011506,14654,01/30/20,Issued,Sent via Email
 8000011505,19354,01/30/20,Issued,Sent via Email
-8000011504,19354,01/30/20,Issued,Sent via Email
 8000011503,17031,01/30/20,Issued,Sent via Email
 8000011502,18309,01/30/20,Issued,Sent via Email
 8000011501,10261,01/30/20,Issued,Sent via Email
@@ -5027,9 +4983,7 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000011066,18298,01/28/20,Issued,Sent via cxml
 8000011065,19031,01/28/20,Issued,Transmission Failure
 8000011064,17223,01/28/20,Issued,Sent via Email
-8000011063,17223,01/28/20,Issued,Sent via Email
 8300011062,18336,01/28/20,Issued,Sent via Email
-8000011061,14003,01/28/20,Cancelled,Pending Manual
 8200011060,17118,01/28/20,Issued,Sent via Email
 8300011059,2623,01/28/20,Issued,Sent via Email
 8300011058,18728,01/28/20,Issued,Sent via Email
@@ -5248,7 +5202,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000010845,18168,01/27/20,Issued,Transmission Failure
 8000010844,17619,01/27/20,Issued,Sent via Email
 8000010843,18080,01/27/20,Issued,Sent via cxml
-8000010842,18080,01/27/20,Issued,Sent via Email
 8000010841,18166,01/27/20,Issued,Sent via Email
 8000010840,11453,01/27/20,Issued,Sent via Email
 8000010839,18734,01/27/20,Issued,Transmission Failure
@@ -5567,7 +5520,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8300010526,17720,01/23/20,Issued,Sent via Email
 8000010525,16674,01/23/20,Issued,Sent via Email
 8000010524,17713,01/23/20,Issued,Transmission Failure
-8000010523,17713,01/23/20,Cancelled,Sent via Email
 8300010522,12312,01/23/20,Issued,Sent via Email
 8000010521,17294,01/23/20,Issued,Transmission Failure
 8000010520,16082,01/23/20,Issued,Sent via cxml
@@ -5629,8 +5581,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000010464,18036,01/23/20,Issued,Sent via cxml
 8000010463,17914,01/23/20,Issued,Sent via Email
 8000010462,16337,01/23/20,Issued,Sent via Email
-8000010461,16337,01/23/20,Issued,Sent via cxml
-8000010460,16337,01/23/20,Issued,Transmission Failure
 8000010459,14833,01/23/20,Issued,Sent via cxml
 8000010458,15280,01/23/20,Issued,Sent via Email
 8000010457,17786,01/23/20,Issued,Sent via Email
@@ -5700,7 +5650,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8300010393,17781,01/23/20,Issued,Sent via Email
 8000010392,16277,01/22/20,Issued,Sent via Email
 8000010391,17933,01/22/20,Issued,Sent via Email
-8000010390,17933,01/22/20,Issued,Sent via cxml
 8000010389,10415,01/22/20,Issued,Sent via Email
 8000010388,17320,01/22/20,Issued,Sent via cxml
 8000010387,18051,01/22/20,Issued,Sent via Email
@@ -5724,7 +5673,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000010369,16485,01/22/20,Issued,Sent via Email
 8000010368,18043,01/22/20,Issued,Sent via Email
 8000010367,17977,01/22/20,Issued,Sent via Email
-8000010366,17977,01/22/20,Issued,Sent via Email
 8000010365,14213,01/22/20,Issued,Sent via Email
 8000010364,16185,01/22/20,Issued,Sent via Email
 8000010363,16465,01/22/20,Issued,Sent via Email
@@ -5963,7 +5911,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000010130,16852,01/21/20,Issued,Sent via Email
 8000010129,17660,01/21/20,Issued,Sent via Email
 8000010128,6888,01/21/20,Issued,Sent via Email
-8000010127,6888,01/21/20,Issued,Sent via Email
 8000010126,9468,01/21/20,Issued,Sent via Email
 8000010125,16683,01/21/20,Issued,Sent via cxml
 8000010124,16619,01/21/20,Issued,Sent via Email
@@ -6081,7 +6028,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000010012,15113,01/21/20,Issued,Sent via Email
 8000010011,15468,01/21/20,Issued,Sent via Email
 8000010010,17157,01/21/20,Cancelled,Sent via Email
-8000010009,17157,01/21/20,Issued,Sent via Email
 8000010008,17068,01/21/20,Issued,Sent via Email
 8000010007,16684,01/21/20,Issued,Sent via Email
 8000010006,14812,01/21/20,Issued,Sent via Email
@@ -6132,7 +6078,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000009961,15293,01/20/20,Issued,Sent via Email
 8300009960,15736,01/20/20,Issued,Sent via Email
 8000009959,13090,01/20/20,Issued,Sent via Email
-8000009958,13090,01/20/20,Issued,Sent via Email
 8300009957,15839,01/20/20,Issued,Sent via Email
 8300009956,15841,01/20/20,Issued,Sent via Email
 8000009955,16701,01/20/20,Issued,Sent via Email
@@ -6314,9 +6259,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000009779,14442,01/20/20,Issued,Sent via Email
 8000009778,14707,01/20/20,Issued,Sent via Email
 8000009777,16370,01/20/20,Issued,Sent via Email
-8000009776,16835,01/20/20,Cancelled,Sent via Email
-8000009775,16348,01/20/20,Cancelled,Pending Manual
-8000009774,16348,01/20/20,Issued,Sent via Email
 8000009773,15919,01/20/20,Issued,Sent via Email
 8300009772,15681,01/20/20,Issued,Transmission Failure
 8300009771,17036,01/20/20,Issued,Sent via cxml
@@ -6590,7 +6532,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000009503,15633,01/16/20,Issued,Sent via Email
 8000009502,14311,01/16/20,Issued,Sent via Email
 8000009501,6911,01/16/20,Issued,Sent via Email
-8000009500,12436,01/16/20,Cancelled,Sent via Email
 8000009499,11542,01/16/20,Issued,Sent via Email
 8000009498,13996,01/16/20,Issued,Sent via Email
 8000009497,16016,01/16/20,Issued,Sent via Email
@@ -6737,7 +6678,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000009356,11087,01/16/20,Issued,Sent via Email
 8000009355,16408,01/16/20,Issued,Sent via Email
 8000009354,16393,01/16/20,Issued,Sent via Email
-8000009353,16393,01/16/20,Issued,Sent via Email
 8000009352,14697,01/16/20,Issued,Sent via cxml
 8000009351,14976,01/16/20,Issued,Sent via Email
 8000009350,13306,01/16/20,Issued,Sent via Email
@@ -6960,7 +6900,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000009133,12017,01/15/20,Issued,Sent via Email
 8000009132,16066,01/15/20,Issued,Transmission Failure
 8000009131,5182,01/15/20,Issued,Sent via Email
-8000009130,5182,01/15/20,Issued,Sent via Email
 8000009129,16100,01/15/20,Issued,Transmission Failure
 8000009128,14936,01/15/20,Issued,Sent via cxml
 8000009127,16106,01/15/20,Issued,Sent via Email
@@ -7137,7 +7076,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000008956,15378,01/14/20,Issued,Sent via Email
 8000008955,14945,01/14/20,Issued,Sent via cxml
 8000008954,15490,01/14/20,Issued,Sent via Email
-8000008953,14873,01/14/20,Cancelled,Sent via Email
 8000008952,12469,01/14/20,Issued,Sent via Email
 8000008951,12849,01/14/20,Issued,Sent via Email
 8300008950,15933,01/14/20,Issued,Sent via Email
@@ -7173,7 +7111,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000008920,15678,01/14/20,Issued,Sent via cxml
 8000008919,15535,01/14/20,Issued,Sent via cxml
 8000008918,15053,01/14/20,Issued,Sent via cxml
-8000008917,15053,01/14/20,Issued,Sent via Email
 8000008916,14427,01/14/20,Issued,Sent via Email
 8000008915,15870,01/14/20,Issued,Sent via cxml
 8000008914,15869,01/14/20,Issued,Sent via cxml
@@ -7508,7 +7445,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000008585,15223,01/10/20,Issued,Sent via cxml
 8000008584,15220,01/10/20,Issued,Sent via Email
 8000008583,15219,01/10/20,Issued,Sent via cxml
-8000008582,15219,01/10/20,Issued,Sent via Email
 8000008581,15156,01/10/20,Issued,Sent via Email
 8000008580,15024,01/10/20,Issued,Sent via Email
 8000008579,15361,01/10/20,Issued,Sent via Email
@@ -7517,10 +7453,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000008576,14866,01/10/20,Issued,Sent via Email
 8000008575,14768,01/10/20,Issued,Sent via Email
 8000008574,8081,01/10/20,Issued,Sent via cxml
-8000008573,8081,01/10/20,Issued,Sent via Email
-8000008572,8081,01/10/20,Issued,Sent via Email
-8000008571,8081,01/10/20,Issued,Transmission Failure
-8000008570,8081,01/10/20,Issued,Sent via Email
 8000008569,14458,01/10/20,Issued,Sent via Email
 8000008568,13887,01/10/20,Issued,Sent via Email
 8000008567,13888,01/10/20,Issued,Sent via Email
@@ -7536,7 +7468,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000008557,15234,01/10/20,Issued,Sent via Email
 8000008556,14644,01/10/20,Issued,Sent via Email
 8000008555,15225,01/10/20,Issued,Sent via cxml
-8000008554,14359,01/10/20,Cancelled,Sent via Email
 8000008553,14745,01/10/20,Issued,Sent via Email
 8000008552,15221,01/10/20,Issued,Sent via Email
 8000008551,10562,01/10/20,Issued,Sent via Email
@@ -7626,7 +7557,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000008467,13712,01/10/20,Issued,Sent via cxml
 8000008466,13713,01/10/20,Issued,Sent via Email
 8000008465,4441,01/10/20,Issued,Sent via Email
-8000008464,4441,01/10/20,Issued,Sent via cxml
 8000008463,11203,01/10/20,Issued,Sent via Email
 8000008462,15251,01/10/20,Issued,Sent via cxml
 8000008461,14795,01/10/20,Issued,Sent via Email
@@ -7661,7 +7591,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000008432,14089,01/10/20,Issued,Sent via Email
 8000008431,14752,01/10/20,Issued,Sent via cxml
 8000008430,13808,01/10/20,Issued,Sent via cxml
-8000008429,13808,01/10/20,Issued,Sent via Email
 8000008428,13969,01/10/20,Issued,Sent via Email
 8000008427,13909,01/10/20,Issued,Sent via Email
 8000008426,15030,01/10/20,Issued,Transmission Failure
@@ -7771,10 +7700,8 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000008322,14591,01/09/20,Issued,Sent via cxml
 8000008321,9918,01/09/20,Issued,Sent via Email
 8000008320,13102,01/09/20,Issued,Sent via cxml
-8000008319,13102,01/09/20,Issued,Transmission Failure
 8000008318,15000,01/09/20,Issued,Sent via Email
 8000008317,5577,01/09/20,Issued,Sent via Email
-8000008316,5577,01/09/20,Issued,Sent via Email
 8000008315,14436,01/09/20,Issued,Sent via Email
 8000008314,13604,01/09/20,Issued,Sent via Email
 8000008313,15016,01/09/20,Issued,Sent via cxml
@@ -7946,9 +7873,7 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000008147,14661,01/08/20,Issued,Sent via cxml
 8000008146,14780,01/08/20,Issued,Sent via Email
 8000008145,13971,01/08/20,Issued,Sent via Email
-8000008144,13971,01/08/20,Issued,Sent via Email
 8000008143,14506,01/08/20,Issued,Sent via Email
-8000008142,14506,01/08/20,Issued,Sent via Email
 8000008141,13354,01/08/20,Issued,Sent via Email
 8000008140,14445,01/08/20,Issued,Sent via Email
 8000008139,12377,01/08/20,Issued,Sent via Email
@@ -7963,7 +7888,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000008130,13860,01/08/20,Issued,Sent via Email
 8000008129,14488,01/08/20,Issued,Sent via Email
 8000008128,14601,01/08/20,Issued,Sent via Email
-8000008127,14601,01/08/20,Issued,Sent via Email
 8000008126,13805,01/08/20,Issued,Sent via Email
 8000008125,14260,01/08/20,Issued,Sent via cxml
 8300008124,2569,01/08/20,Issued,Sent via Email
@@ -8187,7 +8111,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000007906,14388,01/07/20,Issued,Sent via cxml
 8000007905,13608,01/07/20,Issued,Sent via Email
 8000007904,12216,01/07/20,Issued,Sent via Email
-8000007903,12216,01/07/20,Issued,Sent via cxml
 8000007902,11993,01/07/20,Issued,Sent via Email
 8000007901,4383,01/07/20,Issued,Transmission Failure
 8000007900,14313,01/07/20,Issued,Sent via Email
@@ -8635,7 +8558,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8300007458,8691,01/02/20,Issued,Sent via Email
 8000007457,13082,01/02/20,Issued,Sent via Email
 8300007456,8695,01/02/20,Issued,Sent via Email
-8000007455,5201,01/02/20,Cancelled,Pending Manual
 8000007454,12389,01/02/20,Issued,Sent via Email
 8000007453,8217,01/02/20,Issued,Sent via Email
 8000007452,13651,01/02/20,Issued,Sent via Email
@@ -8675,7 +8597,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000007418,12936,01/02/20,Issued,Sent via Email
 8000007417,11065,01/02/20,Issued,Sent via Email
 8000007416,10904,01/02/20,Issued,Sent via Email
-8000007415,11198,01/02/20,Cancelled,Sent via Email
 8000007414,8281,01/02/20,Issued,Sent via Email
 8000007413,12692,01/02/20,Issued,Sent via Email
 8000007412,13594,01/02/20,Issued,Sent via cxml
@@ -8804,7 +8725,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000007289,13083,12/31/19,Issued,Sent via Email
 8000007288,12172,12/31/19,Issued,Sent via Email
 8000007287,13691,12/31/19,Issued,Sent via cxml
-8000007286,12808,12/31/19,Cancelled,Sent via Email
 8000007285,12843,12/31/19,Issued,Sent via Email
 8000007284,12670,12/31/19,Issued,Sent via Email
 8000007283,12146,12/31/19,Issued,Sent via Email
@@ -9275,7 +9195,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8300006818,13149,12/23/19,Issued,Sent via Email
 8300006817,12905,12/23/19,Issued,Sent via Email
 8000006816,11064,12/23/19,Issued,Sent via Email
-8000006815,11339,12/23/19,Cancelled,Sent via Email
 8000006814,11895,12/23/19,Issued,Sent via Email
 8000006813,13351,12/23/19,Issued,Sent via Email
 8000006812,13281,12/23/19,Issued,Sent via Email
@@ -9537,7 +9456,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000006556,6724,12/20/19,Issued,Sent via Email
 8000006555,11996,12/20/19,Issued,Sent via Email
 8000006554,11059,12/20/19,Issued,Sent via Email
-8000006553,9755,12/20/19,Cancelled,Sent via Email
 8000006552,12250,12/20/19,Issued,Sent via Email
 8000006551,10717,12/20/19,Issued,Sent via Email
 8000006550,9191,12/20/19,Issued,Sent via Email
@@ -9865,7 +9783,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000006228,12124,12/19/19,Issued,Transmission Failure
 8000006227,12110,12/19/19,Issued,Sent via cxml
 8000006226,10886,12/19/19,Issued,Sent via Email
-8000006225,10886,12/19/19,Issued,Transmission Failure
 8000006224,4454,12/19/19,Issued,Sent via Email
 8000006223,11288,12/19/19,Issued,Sent via Email
 8000006222,11977,12/19/19,Issued,Sent via Email
@@ -10140,7 +10057,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000005953,9892,12/18/19,Issued,Sent via Email
 8000005952,6404,12/18/19,Issued,Sent via Email
 8000005951,5431,12/18/19,Issued,Sent via Email
-8000005950,8296,12/18/19,Issued,Pending Manual
 8000005949,8586,12/18/19,Issued,Sent via cxml
 8000005948,9024,12/18/19,Issued,Sent via cxml
 8000005947,12139,12/18/19,Issued,Sent via Email
@@ -10164,7 +10080,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000005929,6774,12/18/19,Issued,Sent via Email
 8000005928,11136,12/18/19,Issued,Sent via Email
 8000005927,9827,12/18/19,Issued,Sent via Email
-8000005926,8454,12/18/19,Cancelled,Sent via Email
 8000005925,12034,12/18/19,Issued,Sent via Email
 8000005924,9922,12/18/19,Issued,Sent via Email
 8000005923,8709,12/18/19,Issued,Sent via Email
@@ -10450,7 +10365,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000005643,8771,12/16/19,Issued,Sent via Email
 8000005642,9469,12/16/19,Issued,Sent via Email
 8000005641,11587,12/16/19,Issued,Sent via cxml
-8000005640,11587,12/16/19,Issued,Transmission Failure
 8000005639,9599,12/16/19,Issued,Sent via Email
 8000005638,11490,12/16/19,Issued,Sent via Email
 8000005637,10869,12/16/19,Issued,Sent via Email
@@ -10465,7 +10379,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000005628,10512,12/16/19,Issued,Sent via Email
 8000005627,9780,12/16/19,Issued,Sent via Email
 8000005626,8543,12/16/19,Issued,Sent via Email
-8000005625,9229,12/16/19,Cancelled,Sent via Email
 8000005624,8474,12/16/19,Issued,Sent via cxml
 8000005623,10348,12/16/19,Issued,Sent via Email
 8000005622,11550,12/16/19,Issued,Sent via Email
@@ -10854,7 +10767,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000005239,8007,12/12/19,Issued,Sent via cxml
 8000005238,10955,12/12/19,Issued,Sent via Email
 8000005237,4592,12/12/19,Issued,Sent via cxml
-8000005236,4592,12/12/19,Issued,Sent via Email
 8200005235,10397,12/12/19,Issued,Sent via Email
 8000005234,10713,12/12/19,Issued,Sent via Email
 8000005233,10806,12/12/19,Issued,Sent via cxml
@@ -10938,7 +10850,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000005155,10768,12/12/19,Issued,Sent via Email
 8000005154,10770,12/12/19,Issued,Sent via Email
 8000005153,9051,12/12/19,Issued,Sent via Email
-8000005152,6613,12/12/19,Cancelled,Sent via Email
 8000005151,8383,12/12/19,Issued,Sent via Email
 8000005150,9354,12/12/19,Issued,Sent via Email
 8000005149,9406,12/12/19,Issued,Sent via Email
@@ -11414,7 +11325,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000004679,9838,12/10/19,Issued,Sent via Email
 8000004678,9837,12/10/19,Issued,Sent via Email
 8000004677,9800,12/09/19,Issued,Sent via Email
-8000004676,9800,12/09/19,Issued,Sent via Email
 8000004675,9895,12/09/19,Issued,Sent via Email
 8000004674,9939,12/09/19,Issued,Sent via Email
 8000004673,9971,12/09/19,Issued,Sent via Email
@@ -11620,8 +11530,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000004473,5478,12/06/19,Issued,Sent via Email
 8000004472,7910,12/06/19,Issued,Sent via Email
 8000004471,9404,12/06/19,Issued,Sent via Email
-8000004470,9404,12/06/19,Issued,Sent via Email
-8000004469,9404,12/06/19,Issued,Sent via Email
 8000004468,5188,12/06/19,Issued,Sent via Email
 8000004467,8961,12/06/19,Issued,Sent via Email
 8000004466,6822,12/06/19,Issued,Sent via Email
@@ -11642,7 +11550,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000004451,9133,12/06/19,Issued,Sent via Email
 8000004450,9533,12/06/19,Issued,Sent via Email
 8000004449,7781,12/06/19,Issued,Sent via Email
-8000004448,9533,12/06/19,Issued,Sent via Email
 8000004447,8680,12/06/19,Issued,Sent via Email
 8000004446,9458,12/06/19,Issued,Sent via Email
 8000004445,6886,12/06/19,Issued,Sent via Email
@@ -11840,7 +11747,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000004253,8177,12/05/19,Issued,Sent via Email
 8000004252,9123,12/05/19,Issued,Sent via Email
 8000004251,7508,12/05/19,Issued,Sent via Email
-8000004250,7508,12/05/19,Issued,Sent via Email
 8000004249,7558,12/05/19,Issued,Sent via Email
 8000004248,6193,12/05/19,Issued,Sent via Email
 8000004247,8009,12/05/19,Issued,Sent via Email
@@ -11886,9 +11792,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000004207,7767,12/05/19,Issued,Sent via Email
 8000004206,8776,12/05/19,Issued,Sent via cxml
 8000004205,9115,12/05/19,Issued,Sent via Email
-8000004204,9115,12/05/19,Issued,Transmission Failure
-8000004203,9115,12/05/19,Issued,Sent via cxml
-8000004202,9115,12/05/19,Issued,Sent via Email
 8000004201,8420,12/05/19,Issued,Sent via Email
 8000004200,9134,12/05/19,Issued,Transmission Failure
 8000004199,8265,12/05/19,Issued,Sent via Email
@@ -12039,7 +11942,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8300004054,8737,12/04/19,Issued,Sent via Email
 8300004053,8736,12/04/19,Issued,Sent via Email
 8000004052,6101,12/04/19,Issued,Transmission Failure
-8000004051,6101,12/04/19,Issued,Sent via cxml
 8200004050,8723,12/04/19,Issued,Sent via Email
 8300004049,8498,12/04/19,Issued,Sent via Email
 8300004048,8395,12/04/19,Issued,Sent via Email
@@ -12418,7 +12320,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000003675,5806,11/29/19,Issued,Sent via cxml
 8000003674,5745,11/29/19,Issued,Sent via Email
 8000003673,8114,11/29/19,Issued,Sent via Email
-8000003672,8114,11/29/19,Issued,Sent via cxml
 8000003671,4747,11/29/19,Issued,Sent via Email
 8000003670,7815,11/29/19,Issued,Sent via cxml
 8000003669,8056,11/29/19,Issued,Sent via cxml
@@ -12825,7 +12726,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000003268,5950,11/26/19,Issued,Sent via cxml
 8000003267,6232,11/26/19,Issued,Sent via cxml
 8000003266,6801,11/26/19,Issued,Sent via Email
-8000003265,4828,11/26/19,Cancelled,Sent via Email
 8000003264,6441,11/26/19,Issued,Sent via Email
 8000003263,6287,11/26/19,Issued,Sent via cxml
 8000003262,5584,11/26/19,Issued,Sent via Email
@@ -12897,7 +12797,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000003196,5279,11/26/19,Issued,Sent via Email
 8000003195,5372,11/26/19,Issued,Sent via Email
 8000003194,5633,11/26/19,Issued,Sent via Email
-8000003193,5489,11/26/19,Cancelled,Sent via Email
 8000003192,3069,11/26/19,Issued,Sent via cxml
 8000003191,5877,11/26/19,Issued,Sent via Email
 8000003190,6768,11/26/19,Issued,Sent via cxml
@@ -13032,7 +12931,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000003061,6496,11/25/19,Issued,Sent via cxml
 8000003060,6281,11/25/19,Issued,Sent via cxml
 8000003059,6183,11/25/19,Issued,Transmission Failure
-8000003058,6183,11/25/19,Issued,Sent via cxml
 8000003057,6484,11/25/19,Issued,Sent via cxml
 8000003056,6493,11/25/19,Issued,Sent via cxml
 8000003055,6283,11/25/19,Issued,Sent via cxml
@@ -13217,7 +13115,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000002876,5610,11/21/19,Issued,Sent via Email
 8000002875,5040,11/21/19,Issued,Sent via Email
 8000002874,6131,11/21/19,Issued,Sent via Email
-8000002873,5499,11/21/19,Cancelled,Pending Manual
 8000002872,4647,11/21/19,Issued,Sent via Email
 8000002871,5915,11/21/19,Issued,Sent via Email
 8200002870,5889,11/21/19,Issued,Sent via Email
@@ -13252,7 +13149,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000002841,5346,11/21/19,Issued,Sent via Email
 8000002840,4493,11/21/19,Issued,Sent via Email
 8000002839,5759,11/21/19,Issued,Sent via Email
-8000002838,4493,11/21/19,Cancelled,Pending Manual
 8000002837,4823,11/21/19,Issued,Sent via cxml
 8000002836,5907,11/21/19,Issued,Sent via cxml
 8000002835,4190,11/21/19,Issued,Sent via Email
@@ -13437,7 +13333,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8300002656,4208,11/19/19,Issued,Sent via Email
 8000002655,4993,11/19/19,Issued,Sent via Email
 8000002654,4883,11/19/19,Issued,Sent via Email
-8000002653,4883,11/19/19,Issued,Sent via Email
 8000002652,5020,11/19/19,Issued,Sent via Email
 8000002651,4824,11/19/19,Issued,Sent via Email
 8000002650,4996,11/19/19,Issued,Sent via Email
@@ -13461,7 +13356,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000002632,5508,11/19/19,Issued,Sent via cxml
 8000002631,4930,11/19/19,Issued,Sent via Email
 8000002630,4541,11/19/19,Issued,Sent via Email
-8000002629,4024,11/19/19,Issued,Sent via Email
 8000002628,5081,11/19/19,Issued,Sent via cxml
 8000002627,5342,11/19/19,Issued,Sent via Email
 8000002626,3745,11/19/19,Issued,Sent via Email
@@ -13607,7 +13501,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8300002486,4798,11/15/19,Issued,Sent via Email
 8000002485,4613,11/14/19,Issued,Sent via Email
 8000002484,4378,11/14/19,Issued,Sent via Email
-8000002483,4378,11/14/19,Issued,Sent via Email
 8000002482,4497,11/14/19,Issued,Sent via Email
 8000002481,4297,11/14/19,Issued,Sent via Email
 8000002480,4814,11/14/19,Issued,Sent via Email
@@ -13653,7 +13546,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000002440,3997,11/12/19,Issued,Sent via cxml
 8000002439,4421,11/12/19,Issued,Sent via cxml
 8200002438,3870,11/12/19,Issued,Sent via Email
-8000002437,3881,11/12/19,Cancelled,Sent via Email
 8300002436,2327,11/12/19,Issued,Sent via Email
 8000002435,4429,11/12/19,Issued,Sent via cxml
 8000002434,4394,11/12/19,Issued,Sent via Email
@@ -13758,7 +13650,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000002335,4099,11/05/19,Issued,Sent via cxml
 8200002334,3999,11/05/19,Issued,Sent via Email
 8000002333,4065,11/05/19,Issued,Sent via Email
-8000002332,4024,11/05/19,Cancelled,Sent via Email
 8000002331,4049,11/05/19,Issued,Sent via cxml
 8000002330,4085,11/05/19,Issued,Sent via cxml
 8000002329,4092,11/05/19,Issued,Sent via cxml
@@ -13792,15 +13683,12 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000002301,4052,10/31/19,Issued,Sent via cxml
 8000002300,3971,10/31/19,Issued,Sent via cxml
 8200002299,3932,10/31/19,Issued,Sent via Email
-8000002298,4024,10/31/19,Cancelled,Sent via Email
-8000002297,4024,10/31/19,Cancelled,Sent via Email
 8000002296,4014,10/31/19,Issued,Sent via Email
 8000002295,3530,10/31/19,Issued,Sent via Email
 8000002294,3832,10/31/19,Issued,Sent via Email
 8000002293,3893,10/31/19,Issued,Sent via Email
 8000002292,3899,10/31/19,Issued,Sent via Email
 8000002291,3977,10/31/19,Issued,Sent via Email
-8000002290,3737,10/31/19,Cancelled,Sent via Email
 8000002289,3789,10/31/19,Issued,Sent via Email
 8000002288,4023,10/31/19,Issued,Sent via Email
 8000002287,3972,10/31/19,Issued,Sent via Email
@@ -13850,7 +13738,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8000002243,3546,10/29/19,Issued,Sent via Email
 8000002242,3430,10/29/19,Issued,Sent via Email
 8000002241,3913,10/29/19,Cancelled,Sent via Email
-8000002240,3913,10/29/19,Issued,Sent via Email
 8000002239,3659,10/29/19,Issued,Sent via Email
 8000002238,3855,10/29/19,Issued,Sent via Email
 8300002237,3115,10/29/19,Issued,Sent via Email
@@ -14325,7 +14212,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8300001768,2836,10/01/19,Issued,Sent via Email
 8300001767,2788,10/01/19,Issued,Sent via Email
 8300001766,3091,10/01/19,Cancelled,Sent via Email
-8300001765,3091,10/01/19,Cancelled,Sent via Email
 8300001764,3158,10/01/19,Issued,Sent via Email
 8300001763,3092,10/01/19,Issued,Sent via Email
 8300001762,3047,10/01/19,Issued,Sent via Email
@@ -14794,7 +14680,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8300001299,1051,09/06/19,Issued,Sent via Email
 8200001298,2455,09/06/19,Issued,Sent via Email
 8300001297,2450,09/06/19,Issued,Sent via Email
-8300001296,2450,09/06/19,Issued,Sent via Email
 8300001295,2423,09/06/19,Issued,Sent via Email
 8300001294,2496,09/06/19,Issued,Sent via Email
 8300001293,2470,09/06/19,Issued,Sent via Email
@@ -15198,12 +15083,10 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8300000895,1847,07/31/19,Issued,Sent via Email
 8200000894,1841,07/31/19,Issued,Sent via Email
 8300000893,1803,07/31/19,Issued,Sent via Email
-8300000892,367,07/31/19,Cancelled,Sent via Email
 8300000891,688,07/31/19,Issued,Sent via Email
 8300000890,1174,07/31/19,Issued,Sent via Email
 8200000889,1665,07/31/19,Issued,Sent via Email
 8300000888,1727,07/31/19,Issued,Sent via Email
-8300000887,1797,07/31/19,Cancelled,Sent via Email
 8200000886,1816,07/31/19,Issued,Sent via Email
 8200000885,1660,07/31/19,Cancelled,Sent via Email
 8200000884,1772,07/31/19,Issued,Sent via Email
@@ -15450,7 +15333,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8200000643,1204,07/15/19,Issued,Sent via Email
 8300000642,1433,07/15/19,Issued,Sent via Email
 8300000641,1423,07/15/19,Cancelled,Sent via Email
-8300000640,1423,07/15/19,Cancelled,Sent via Email
 8300000639,1343,07/15/19,Issued,Sent via Email
 8300000638,1341,07/13/19,Issued,Sent via Email
 8200000637,1421,07/12/19,Issued,Sent via Email
@@ -15471,7 +15353,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8300000622,1377,07/12/19,Soft Closed,Sent via Email
 8300000621,1227,07/12/19,Issued,Sent via Email
 8300000620,1404,07/12/19,Cancelled,Sent via Email
-8300000619,1404,07/12/19,Issued,Sent via Email
 8300000618,1224,07/11/19,Issued,Sent via Email
 8300000617,1371,07/11/19,Issued,Sent via Email
 8300000616,1356,07/11/19,Issued,Sent via Email
@@ -15757,7 +15638,6 @@ PO Number,Requisition Number,Order Date,Status,Transmission Method
 8300000336,797,07/01/19,Issued,Sent via Email
 8300000335,642,07/01/19,Issued,Sent via Email
 8300000334,640,07/01/19,Issued,Sent via Email
-8200000333,766,07/01/19,Cancelled,Sent via Email
 8200000332,840,07/01/19,Issued,Sent via Email
 8200000331,838,07/01/19,Issued,Sent via Email
 8200000330,841,07/01/19,Issued,Sent via Email
