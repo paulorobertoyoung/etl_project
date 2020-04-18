@@ -54,9 +54,14 @@ CREATE TABLE order_line (
 	Account_Total_Currency VARCHAR,
 	Contract_Number FLOAT,
 	ERP VARCHAR,
-	FOREIGN KEY (po_number) REFERENCES order_header(po_number),
 	FOREIGN KEY (currency) REFERENCES exchange_rates(currency)
 );
 
 
-SELECT * from exchange_rates;
+delete from approval_data;
+delete from exchange_rates;
+delete from order_header;
+delete from order_line;
+delete from star_data;
+
+SELECT count(*) from order_header where po_number = 8000015928
