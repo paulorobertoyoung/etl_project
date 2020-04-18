@@ -1,14 +1,22 @@
 CREATE TABLE exchange_rates (
-	exchange_code VARCHAR(10) PRIMARY KEY,
-	currency VARCHAR(3),
+	currency VARCHAR PRIMARY KEY,
+	exchange_code VARCHAR(10),
 	ex_rate_to_EUR FLOAT(10)
 );
 
 CREATE TABLE star_data (
-	STAR_family VARCHAR(5) PRIMARY KEY,
-	market VARCHAR(5),
-	category(5) VARCHAR,
-	technology(5) VARCHAR
+	STAR_family VARCHAR PRIMARY KEY,
+	market VARCHAR,
+	category VARCHAR,
+	technology VARCHAR
+);
+
+CREATE TABLE order_header(
+    po_number BIGINT PRIMARY KEY,
+    req_number BIGINT,
+    order_date VARCHAR,
+    status VARCHAR,
+    trans_method VARCHAR
 );
 
 CREATE TABLE approval_data (
@@ -16,11 +24,11 @@ CREATE TABLE approval_data (
 	document_total FLOAT,
 	approver VARCHAR,
 	delegate VARCHAR,
-	approval_limit FLOAT,
-	submission_date DATE,
-	first_notification DATE,
-	approval_date DATE,
-	local_approval_date DATE,
+	approval_limit VARCHAR,
+	submission_date VARCHAR,
+	first_notification VARCHAR,
+	approval_date VARCHAR,
+	local_approval_date VARCHAR,
 	approval_duration VARCHAR,
 	status VARCHAR, 
 	note VARCHAR,
@@ -32,29 +40,23 @@ CREATE TABLE approval_data (
 	skip_escalation BOOLEAN
 );
 
-CREATE TABLE order_header(
-    po_number CHAR(15) PRIMARY KEY,
-    req_number CHAR(15),
-    order_date CHAR(15),
-    status CHAR(15),
-    trans_method CHAR(20),
-	FOREIGN KEY (req_number) REFERENCES approval_data(document_number)
-);
-
 CREATE TABLE order_line (
-	po_number INT,
-	PO_Line_Number DATE,
+	po_number BIGINT,
+	PO_Line_Number BIGINT,
 	Item_Classification VARCHAR,
 	Item_Description VARCHAR,
-	Line_Total INT,
-	currency VARCHAR (3),
+	Line_Total FLOAT,
+	currency VARCHAR,
 	Order_Status VARCHAR,
 	Order_Transmission_Status VARCHAR,
 	Chat_Of_Accounts VARCHAR,
 	Account VARCHAR,
-	Account_Total_Currency VARCHAR (3),
-	Contract_Number VARCHAR,
-	ERP VARCHAR(3),
+	Account_Total_Currency VARCHAR,
+	Contract_Number FLOAT,
+	ERP VARCHAR,
 	FOREIGN KEY (po_number) REFERENCES order_header(po_number),
-	FOREIGN KEY (currency) REFERENCES exchange_rates(currency),
+	FOREIGN KEY (currency) REFERENCES exchange_rates(currency)
 );
+
+
+SELECT * from exchange_rates;
