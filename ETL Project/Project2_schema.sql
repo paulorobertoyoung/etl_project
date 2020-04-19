@@ -55,20 +55,44 @@ CREATE TABLE order_line (
 	"contract_number" FLOAT,
 	"erp" VARCHAR,
 	"item_classification" VARCHAR,
-	"accounting_total_currency" VARCHAR
+	"accounting_total_currency" VARCHAR,
+	FOREIGN KEY(currency) REFERENCES exchange_rates(currency)
 );
 
+CREATE TABLE old_order_line (
+    "po_key" VARCHAR PRIMARY KEY,
+    "po_number" BIGINT,
+	"line" BIGINT,
+    "order_status" VARCHAR,
+    "transmission_method" VARCHAR,
+	"item" VARCHAR,
+	"line_total" FLOAT,
+	"currency" VARCHAR,
+	"account" VARCHAR,
+	"chart_of_accounts" VARCHAR,
+	"contract_number" FLOAT,
+	"erp" VARCHAR,
+	"item_classification" VARCHAR,
+	"accounting_total_currency" VARCHAR,
+	FOREIGN KEY(currency) REFERENCES exchange_rates(currency)
+);
 
+SELECT * FROM old_order_line
+INNER JOIN order_header
+ON old_order_line.po_number = order_header.po_number;
 
+SELECT * FROM old_order_line
+INNER JOIN order_header
+ON old_order_line.po_number = order_header.po_number
+where old_order_line.po_number ='8000015928';
+
+Copy (SELECT * FROM old_order_line
+INNER JOIN order_header
+ON old_order_line.po_number = order_header.po_number)
+To 'C:\Users\TDI\Desktop\Join777.csv' With CSV DELIMITER ','  HEADER;
 
 ALTER TABLE order_line
 ADD CONSTRAINT constraint_fk
 FOREIGN KEY (po_number)
-REFERENCES order_header("PO Number")
+REFERENCES order_header("po_number")
 ON DELETE CASCADE;
-
-
-
-
-
-select * from order_line
