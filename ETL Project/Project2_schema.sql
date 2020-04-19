@@ -1,67 +1,74 @@
 CREATE TABLE exchange_rates (
-	currency VARCHAR PRIMARY KEY,
-	exchange_code VARCHAR(10),
-	ex_rate_to_EUR FLOAT(10)
+	"currency" VARCHAR PRIMARY KEY,
+	"exchange_code" VARCHAR,
+	"exchange_rate_to_eur" FLOAT
 );
 
 CREATE TABLE star_data (
-	STAR_family VARCHAR PRIMARY KEY,
-	market VARCHAR,
-	category VARCHAR,
-	technology VARCHAR
+	"star_family" VARCHAR PRIMARY KEY,
+    "market" VARCHAR,
+	"category" VARCHAR,
+	"technology" VARCHAR
 );
 
 CREATE TABLE order_header(
-    po_number BIGINT PRIMARY KEY,
-    req_number BIGINT,
-    order_date VARCHAR,
-    status VARCHAR,
-    trans_method VARCHAR
+    "po_number" BIGINT PRIMARY KEY,
+    "requisition_number" BIGINT,
+    "order_date" VARCHAR,
+    "status" VARCHAR,
+    "transmission_method" VARCHAR
 );
 
+
 CREATE TABLE approval_data (
-	document_number INT,
-	document_total FLOAT,
-	approver VARCHAR,
-	delegate VARCHAR,
-	approval_limit VARCHAR,
-	submission_date VARCHAR,
-	first_notification VARCHAR,
-	approval_date VARCHAR,
-	local_approval_date VARCHAR,
-	approval_duration VARCHAR,
-	status VARCHAR, 
-	note VARCHAR,
-	postion INT,
-	approval_type VARCHAR,
-	approval_chain INT,
-	override INT,
-	reasons VARCHAR,
-	skip_escalation BOOLEAN
+	"document_number" INT,
+	"document_total" FLOAT,
+	"approver" VARCHAR,
+	"delegates" VARCHAR,
+	"approval_limit" VARCHAR,
+	"submission_date" TIMESTAMP,
+	"first_notification" TIMESTAMP,
+	"approval_date" TIMESTAMP,
+	"local_approval_date" TIMESTAMP,
+	"approval_duration" VARCHAR,
+	"status" VARCHAR, 
+	"note" VARCHAR,
+	"position" INT,
+	"type" VARCHAR,
+	"approval_chain" INT,
+	"override" INT,
+	"reasons" VARCHAR,
+	"skip_escalation" BOOLEAN
 );
 
 CREATE TABLE order_line (
-	po_number BIGINT,
-	PO_Line_Number BIGINT,
-	Item_Classification VARCHAR,
-	Item_Description VARCHAR,
-	Line_Total FLOAT,
-	currency VARCHAR,
-	Order_Status VARCHAR,
-	Order_Transmission_Status VARCHAR,
-	Chat_Of_Accounts VARCHAR,
-	Account VARCHAR,
-	Account_Total_Currency VARCHAR,
-	Contract_Number FLOAT,
-	ERP VARCHAR,
-	FOREIGN KEY (currency) REFERENCES exchange_rates(currency)
+    "po_key" VARCHAR PRIMARY KEY,
+    "po_number" BIGINT,
+	"line" BIGINT,
+    "order_status" VARCHAR,
+    "transmission_method" VARCHAR,
+	"item" VARCHAR,
+	"line_total" FLOAT,
+	"currency" VARCHAR,
+	"account" VARCHAR,
+	"chart_of_accounts" VARCHAR,
+	"contract_number" FLOAT,
+	"erp" VARCHAR,
+	"item_classification" VARCHAR,
+	"accounting_total_currency" VARCHAR
 );
 
 
-delete from approval_data;
-delete from exchange_rates;
-delete from order_header;
-delete from order_line;
-delete from star_data;
 
-SELECT count(*) from order_header where po_number = 8000015928
+
+ALTER TABLE order_line
+ADD CONSTRAINT constraint_fk
+FOREIGN KEY (po_number)
+REFERENCES order_header("PO Number")
+ON DELETE CASCADE;
+
+
+
+
+
+select * from order_line
